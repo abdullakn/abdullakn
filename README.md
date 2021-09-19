@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-abdullakn96@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullakn96@gmail.com)](mailto:abdullakn96@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AbdullaKN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-kn-2662841b7/)](https://www.linkedin.com/in/abdulla-kn-2662841b7/)
+[![Website Badge](https://img.shields.io/badge/-AbdullaKN-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](http://profile.abdullakn.online)
+[![Instagram Badge](https://img.shields.io/badge/-@hashmy_abdulla-pink?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/hashmy_abdulla)
+
+
