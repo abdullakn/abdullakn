@@ -61,11 +61,25 @@ I am flexible person who is interested challenging myself and acquire any piece 
 <code><img height="30" src="https://github.com/abdullakn/abdullakn/blob/main/aws.png"></code>
 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0uXQpEJemFp9z0OJvecPwu?si=7199fe9d42cb41ee)
 
-📈 my github stats
+<p align="center">
+    <a href="https://github.com/abdullakn/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdulla KN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullakn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizp&show_icons=true&theme=gotham" alt="faizp" />
+
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/abdullakn/github-readme-stats"><img alt="Abdulla KN Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullakn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abdullakn/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullakn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<a href="https://github.com/abdullakn/github-readme-activity-graph"><img alt="Abdulla KN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullakn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 
