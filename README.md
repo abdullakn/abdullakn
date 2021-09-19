@@ -1,5 +1,5 @@
  Hi there 👋
-![Abdulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullakn)
+
 
 
 <!--
@@ -26,8 +26,9 @@ Hi, i'm [Abdulla KN](http://profile.abdullakn.online/),I am a self taught web de
 
 I am flexible person who is interested challenging myself and acquire any piece of knowledge from anywhere I could. I am the kind of person who acquire knowledge to apply what I have learned and I experiment with it to push myself into new heights.
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 💼 any freelance work? do reach, [email](mailto:abdullakn96@gmail.com) 
 - 💬 ask me about anything, i am happy to help
@@ -58,6 +59,13 @@ I am flexible person who is interested challenging myself and acquire any piece 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://github.com/abdullakn/abdullakn/blob/main/nginx.png"></code>
 <code><img height="30" src="https://github.com/abdullakn/abdullakn/blob/main/aws.png"></code>
+
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0uXQpEJemFp9z0OJvecPwu?si=7199fe9d42cb41ee)
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizp&show_icons=true&theme=gotham" alt="faizp" />
 
 
 
